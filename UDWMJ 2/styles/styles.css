@@ -1,0 +1,43 @@
+/* Neocities */
+:root{
+    color: black;
+}
+.bg{
+    background-color: #0F0FD4;
+    border-bottom: 10rem solid #0F0FD4;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card{
+    background-color: whitesmoke;
+    border-radius: 10rem;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+header{
+    margin-top: -9rem;
+}
+
+img{
+    width: 10rem;
+}
+
+a{
+    color: white;
+    margin: 5px;
+    background-color:#0F0FD4;
+    font-size: 20px;
+    border: 5px solid #0F0FD4;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+}
